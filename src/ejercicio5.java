@@ -8,7 +8,7 @@ public class ejercicio5 {
         y no es posible guardar la palbra 'Hola' en una variable char
         */
 
-        a = 'a';
+        a = '\\\';
         System.out.println(a);
         
     }
