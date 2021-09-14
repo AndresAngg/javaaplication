@@ -13,7 +13,7 @@ public class ejercicio1 {
         char var9 = 'a';
 
         System.out.println(var1 + " - " + var2 + " - " + var3 + " - " + var4 + " - " + var5 + " - " + var6 + " - " + var7 + " - " + var8 + " - " + var9);
-        
+        //Ejercicio2
         var2 = 9999999990;
         var3 = 9999999990;
         var4 = 9999999990;
